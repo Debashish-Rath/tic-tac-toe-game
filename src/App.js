@@ -97,7 +97,7 @@ export default function Board() {
       </div>
 
       <div className="game-status">
-        {game_status}
+        <h1>{game_status}</h1>
       </div>
       
       <div className="reset-board">
